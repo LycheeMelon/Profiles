@@ -1,0 +1,49 @@
+Profile 1:
+Name: John Smith
+Gender: Male
+Age: 35
+Height: 175 cm
+Weight: 72.6 kg
+BMI Calculation:
+BMI = 72.6 / (1.75 * 1.75) ≈ 23.7
+BMI Category: Normal weight
+
+Profile 2:
+Name: Emily Johnson
+Gender: Female
+Age: 28
+Height: 163 cm
+Weight: 52.2 kg
+BMI Calculation:
+BMI = 52.2 / (1.63 * 1.63) ≈ 19.6
+BMI Category: Normal weight
+
+Profile 3:
+Name: Michael Davis
+Gender: Male
+Age: 42
+Height: 183 cm
+Weight: 95.3 kg
+BMI Calculation:
+BMI = 95.3 / (1.83 * 1.83) ≈ 28.4
+BMI Category: Overweight
+
+Profile 4:
+Name: Sarah Lee
+Gender: Female
+Age: 22
+Height: 170 cm
+Weight: 59 kg
+BMI Calculation:
+BMI = 59 / (1.70 * 1.70) ≈ 20.4
+BMI Category: Normal weight
+
+Profile 5:
+Name: David Brown
+Gender: Male
+Age: 50
+Height: 173 cm
+Weight: 113.4 kg
+BMI Calculation:
+BMI = 113.4 / (1.73 * 1.73) ≈ 37.9
+BMI Category: Obese
